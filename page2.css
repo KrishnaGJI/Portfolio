@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+p{
+    color: whitesmoke;
+    line-height:1;
+    font-size:larger;
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    margin-left:100px;
+    margin-top:50px;
+    margin-right:100px;
+    border-width:10px;
+    border-style: dotted;
+    border-color:darkcyan;
+    padding:15px;
+}
+a{
+    color:yellow;
+}
